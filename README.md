@@ -1,5 +1,3 @@
-# Login-Page
-
 
 # Turkish
 Merhabalar! Bu proje, benim Github üzerinden yayınladığım ilk projemdir~! Projemi dilediğiniz gibi kullanabilirsiniz!
